@@ -56,23 +56,23 @@
     "taskDifficulties": [
         {
             "id": 1,
-            "dificulty":"trivial"
+            "difficulty":"trivial"
         },
         {
             "id": 2,
-            "dificulty":"Easy"
+            "difficulty":"Easy"
         },
         {
             "id": 3,
-            "dificulty":"Medium"
+            "difficulty":"Medium"
         },
         {
             "id": 4,
-            "dificulty":"Hard"
+            "difficulty":"Hard"
         },
         {
             "id": 4,
-            "dificulty":"Extreme"
+            "difficulty":"Extreme"
         }
     ],
     "pomoTasks":[
