@@ -3,32 +3,32 @@
         {
             "id": 1,
             "fullName": "Reggie Williams",
-            "Email": "rlwjr433@gmail.com"    
+            "email": "rlwjr433@gmail.com"    
         },
         {
             "id": 2,
             "fullName": "Maia Dutta",
-            "Email": "mdutta@gmail.com"    
+            "email": "mdutta@gmail.com"    
         },
         {
             "id": 3,
             "fullName": "Ryan Allred",
-            "Email": "whysryanallred@gmail.com"    
+            "email": "whysryanallred@gmail.com"    
         },
         {
             "id": 4,
             "fullName": "Jesier Santiago",
-            "Email": "jsanti@gmail.com"    
+            "email": "jsanti@gmail.com"    
         },
         {
             "id": 5,
             "fullName": "Renee Doll",
-            "Email": "rdizzle@gmail.com"    
+            "email": "rdizzle@gmail.com"    
         },
         {
             "id": 6,
             "fullName": "Simone Marcantel",
-            "Email": "smarcantel@gmail.com"    
+            "email": "smarcantel@gmail.com"    
         }
     ],
     "taskTypes": [
