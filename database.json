@@ -117,14 +117,6 @@
       "taskDifficultyId": "1",
       "isCompleted": true,
       "id": 4
-    },
-    {
-      "userId": 4,
-      "taskDescription": "",
-      "taskTypeId": 0,
-      "taskDifficultyId": 0,
-      "isCompleted": false,
-      "id": 5
     }
   ]
 }
