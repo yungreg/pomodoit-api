@@ -96,9 +96,9 @@
     },
     {
       "userId": 4,
-      "taskDescription": "If this saves, it means I got the TaskForkk component to work. TIGHT",
-      "taskTypeId": "4",
-      "taskDifficultyId": "3",
+      "taskDescription": "If this saves, edit works. now you can make edit buttons for each session",
+      "taskTypeId": 1,
+      "taskDifficultyId": 2,
       "isCompleted": true,
       "id": 2
     },
@@ -117,6 +117,30 @@
       "taskDifficultyId": "1",
       "isCompleted": true,
       "id": 4
+    },
+    {
+      "userId": 3,
+      "taskDescription": "Travel to my jiujitsu class!",
+      "taskTypeId": "3",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "taskDescription": "Get my glasses fixed! (testing the task form's reset feature)",
+      "taskTypeId": "2",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "taskDescription": "\"seeing if removing e.preventdefault() helps with resetting the form by reloading the page on submission\"",
+      "taskTypeId": "2",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 7
     }
   ]
 }
