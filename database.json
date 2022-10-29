@@ -1,88 +1,146 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "fullName": "Reggie Williams",
-            "Email": "rlwjr433@gmail.com"    
-        },
-        {
-            "id": 2,
-            "fullName": "Maia Dutta",
-            "Email": "mdutta@gmail.com"    
-        },
-        {
-            "id": 3,
-            "fullName": "Ryan Allred",
-            "Email": "whysryanallred@gmail.com"    
-        },
-        {
-            "id": 4,
-            "fullName": "Jesier Santiago",
-            "Email": "jsanti@gmail.com"    
-        },
-        {
-            "id": 5,
-            "fullName": "Renee Doll",
-            "Email": "rdizzle@gmail.com"    
-        },
-        {
-            "id": 6,
-            "fullName": "Simone Marcantel",
-            "Email": "smarcantel@gmail.com"    
-        }
-    ],
-    "taskTypes": [
-        {
-            "id": 1,
-            "type": "Chores"
-        },
-        {
-            "id": 2,
-            "type": "Life"
-        },
-        {
-            "id": 3,
-            "type": "Liesure/Self-Care"
-        },
-        {
-            "id": 4,
-            "type": "Work"
-        },
-        {
-            "id": 5,
-            "type": "Studying"
-        }
-    ],
-    "taskDifficulties": [
-        {
-            "id": 1,
-            "difficulty":"trivial"
-        },
-        {
-            "id": 2,
-            "difficulty":"Easy"
-        },
-        {
-            "id": 3,
-            "difficulty":"Medium"
-        },
-        {
-            "id": 4,
-            "difficulty":"Hard"
-        },
-        {
-            "id": 4,
-            "difficulty":"Extreme"
-        }
-    ],
-    "pomoTasks":[
-        {
-            "id": 1,
-            "userId": 1,
-            "taskDescription": "Lorem Impsum",
-            "taskTypeId": 1,
-            "taskDifficultyId": 1,
-            "isCompleted": false
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Reggie Williams",
+      "email": "rlwjr433@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Maia Dutta",
+      "email": "mdutta@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Ryan Allred",
+      "email": "whysryanallred@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jesier Santiago",
+      "email": "jsanti@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Renee Doll",
+      "email": "rdizzle@gmail.com"
+    },
+    {
+      "id": 6,
+      "fullName": "Simone Marcantel",
+      "email": "smarcantel@gmail.com"
+    },
+    {
+      "email": "iamtheboss@konami.com",
+      "fullName": "Big Boss",
+      "id": 7
+    },
+    {
+      "email": "nakedsnake@konami.com",
+      "fullName": "Naked Snake",
+      "id": 8
+    }
+  ],
+  "taskTypes": [
+    {
+      "id": 1,
+      "type": "Chores"
+    },
+    {
+      "id": 2,
+      "type": "Life"
+    },
+    {
+      "id": 3,
+      "type": "Liesure/Self-Care"
+    },
+    {
+      "id": 4,
+      "type": "Work"
+    },
+    {
+      "id": 5,
+      "type": "Studying"
+    }
+  ],
+  "taskDifficulties": [
+    {
+      "id": 1,
+      "difficulty": "trivial"
+    },
+    {
+      "id": 2,
+      "difficulty": "Easy"
+    },
+    {
+      "id": 3,
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4,
+      "difficulty": "Hard"
+    },
+    {
+      "id": 5,
+      "difficulty": "Extreme"
+    }
+  ],
+  "userSessions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "taskDescription": "Lorem Impsum",
+      "taskTypeId": 1,
+      "taskDifficultyId": 1,
+      "isCompleted": false
+    },
+    {
+      "userId": 4,
+      "taskDescription": "If this saves, edit works. now you can make edit buttons for each session",
+      "taskTypeId": 1,
+      "taskDifficultyId": 2,
+      "isCompleted": true,
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "taskDescription": "typing to see if this input reform reserts after hittintg the submit button",
+      "taskTypeId": "4",
+      "taskDifficultyId": "2",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "taskDescription": "looks like hitting the enter button works like the submit button",
+      "taskTypeId": "5",
+      "taskDifficultyId": "1",
+      "isCompleted": true,
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "taskDescription": "Travel to my jiujitsu class!",
+      "taskTypeId": "3",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "taskDescription": "Get my glasses fixed! (testing the task form's reset feature)",
+      "taskTypeId": "2",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "taskDescription": "\"seeing if removing e.preventdefault() helps with resetting the form by reloading the page on submission\"",
+      "taskTypeId": "2",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 7
+    }
+  ]
 }
