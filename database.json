@@ -96,9 +96,9 @@
     },
     {
       "userId": 4,
-      "taskDescription": "If this saves, edit works. now you can make edit buttons for each session",
-      "taskTypeId": 1,
-      "taskDifficultyId": 2,
+      "taskDescription": "If this saves, edit works. figure out how to pick which entry to edit",
+      "taskTypeId": 4,
+      "taskDifficultyId": 4,
       "isCompleted": true,
       "id": 2
     },
@@ -120,9 +120,9 @@
     },
     {
       "userId": 3,
-      "taskDescription": "Travel to my jiujitsu class!",
-      "taskTypeId": "3",
-      "taskDifficultyId": "3",
+      "taskDescription": "Travel to my jiujitsu class! (testing edit feature (10/29/22))",
+      "taskTypeId": 5,
+      "taskDifficultyId": 2,
       "isCompleted": true,
       "id": 5
     },
