@@ -96,7 +96,7 @@
     },
     {
       "userId": 4,
-      "taskDescription": "If this saves, edit works. figure out how to pick which entry to edit",
+      "taskDescription": "If this saves, edit works.. but from the wrong one. lol does navigate tho!",
       "taskTypeId": 4,
       "taskDifficultyId": 4,
       "isCompleted": true,
@@ -120,27 +120,11 @@
     },
     {
       "userId": 3,
-      "taskDescription": "Travel to my jiujitsu class! (testing edit feature (10/29/22))",
-      "taskTypeId": 5,
-      "taskDifficultyId": 2,
-      "isCompleted": true,
-      "id": 5
-    },
-    {
-      "userId": 3,
-      "taskDescription": "Get my glasses fixed! (testing the task form's reset feature)",
-      "taskTypeId": "2",
-      "taskDifficultyId": "3",
+      "taskDescription": "Here's another!",
+      "taskTypeId": "3",
+      "taskDifficultyId": "2",
       "isCompleted": true,
       "id": 6
-    },
-    {
-      "userId": 3,
-      "taskDescription": "\"seeing if removing e.preventdefault() helps with resetting the form by reloading the page on submission\"",
-      "taskTypeId": "2",
-      "taskDifficultyId": "3",
-      "isCompleted": true,
-      "id": 7
     }
   ]
 }
