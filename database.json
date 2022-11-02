@@ -39,6 +39,11 @@
       "email": "nakedsnake@konami.com",
       "fullName": "Naked Snake",
       "id": 8
+    },
+    {
+      "email": "onepunchpwn4g3@rekt.com",
+      "fullName": "Saitama",
+      "id": 9
     }
   ],
   "taskTypes": [
@@ -125,6 +130,14 @@
       "taskDifficultyId": "2",
       "isCompleted": true,
       "id": 6
+    },
+    {
+      "userId": 9,
+      "taskDescription": "100 pushups 100 sit ups 100 squats 5km run",
+      "taskTypeId": "4",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 8
     }
   ]
 }
