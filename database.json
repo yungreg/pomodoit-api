@@ -44,6 +44,11 @@
       "email": "onepunchpwn4g3@rekt.com",
       "fullName": "Saitama",
       "id": 9
+    },
+    {
+      "email": "thezoldycksarecrazy@assassins.com",
+      "fullName": "Killua Zoldyck",
+      "id": 10
     }
   ],
   "taskTypes": [
@@ -138,6 +143,14 @@
       "taskDifficultyId": "3",
       "isCompleted": true,
       "id": 8
+    },
+    {
+      "userId": 10,
+      "taskDescription": "Godspeed!",
+      "taskTypeId": "3",
+      "taskDifficultyId": "2",
+      "isCompleted": false,
+      "id": 9
     }
   ]
-}
+}   
