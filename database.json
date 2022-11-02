@@ -104,10 +104,10 @@
     },
     {
       "userId": 4,
-      "taskDescription": "typing to see if this input reform reserts after hittintg the submit button",
-      "taskTypeId": "4",
-      "taskDifficultyId": "2",
-      "isCompleted": false,
+      "taskDescription": "typing to see if this input reform works",
+      "taskTypeId": 1,
+      "taskDifficultyId": 3,
+      "isCompleted": true,
       "id": 3
     },
     {
