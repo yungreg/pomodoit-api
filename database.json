@@ -49,6 +49,21 @@
       "email": "thezoldycksarecrazy@assassins.com",
       "fullName": "Killua Zoldyck",
       "id": 10
+    },
+    {
+      "email": "imnotluigi@nintendo.com",
+      "fullName": "Mario Mario ",
+      "id": 11
+    },
+    {
+      "email": "iamnotsnake@metalgearsolid.com",
+      "fullName": "Liquid Snake",
+      "id": 12
+    },
+    {
+      "email": "thisismyemail@email.com",
+      "fullName": "Reggie L Williams Jr",
+      "id": 13
     }
   ],
   "taskTypes": [
@@ -151,6 +166,30 @@
       "taskDifficultyId": "2",
       "isCompleted": false,
       "id": 9
+    },
+    {
+      "userId": 11,
+      "taskDescription": "being NOT luigi",
+      "taskTypeId": "4",
+      "taskDifficultyId": "3",
+      "isCompleted": true,
+      "id": 10
+    },
+    {
+      "userId": 11,
+      "taskDescription": "Saved princess Peach!",
+      "taskTypeId": 4,
+      "taskDifficultyId": 5,
+      "isCompleted": true,
+      "id": 11
+    },
+    {
+      "userId": 10,
+      "taskDescription": "Make an instructional video on how to use this app, PomoDoIt",
+      "taskTypeId": "4",
+      "taskDifficultyId": "2",
+      "isCompleted": true,
+      "id": 12
     }
   ]
-}   
+}
