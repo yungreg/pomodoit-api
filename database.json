@@ -160,14 +160,6 @@
       "id": 8
     },
     {
-      "userId": 10,
-      "taskDescription": "Godspeed!",
-      "taskTypeId": "3",
-      "taskDifficultyId": "2",
-      "isCompleted": false,
-      "id": 9
-    },
-    {
       "userId": 11,
       "taskDescription": "being NOT luigi",
       "taskTypeId": "4",
@@ -185,10 +177,10 @@
     },
     {
       "userId": 10,
-      "taskDescription": "Make an instructional video on how to use this app, PomoDoIt",
-      "taskTypeId": "4",
+      "taskDescription": "make sure killua's tasks work",
+      "taskTypeId": "2",
       "taskDifficultyId": "2",
-      "isCompleted": true,
+      "isCompleted": false,
       "id": 12
     }
   ]
