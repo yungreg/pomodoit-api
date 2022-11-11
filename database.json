@@ -177,10 +177,10 @@
     },
     {
       "userId": 10,
-      "taskDescription": "make sure killua's tasks work",
-      "taskTypeId": "2",
-      "taskDifficultyId": "2",
-      "isCompleted": false,
+      "taskDescription": "make sure killua's tasks work. They do!",
+      "taskTypeId": 4,
+      "taskDifficultyId": 1,
+      "isCompleted": true,
       "id": 12
     }
   ]
