@@ -69,6 +69,16 @@
       "email": "newemail@hello.com",
       "fullName": "New User",
       "id": 14
+    },
+    {
+      "email": "thisisanewuser@newuser.com",
+      "fullName": "Reggie Williams Jr",
+      "id": 15
+    },
+    {
+      "email": "thisisanewuser2@newuser.com",
+      "fullName": "Reggie",
+      "id": 16
     }
   ],
   "taskTypes": [
@@ -119,7 +129,7 @@
     {
       "id": 1,
       "userId": 1,
-      "taskDescription": "Lorem Impsum",
+      "taskDescription": "Lorem Impsum for sure",
       "taskTypeId": 1,
       "taskDifficultyId": 1,
       "isCompleted": false
@@ -187,6 +197,14 @@
       "taskDifficultyId": 1,
       "isCompleted": true,
       "id": 12
+    },
+    {
+      "userId": 15,
+      "taskDescription": "I want to get this task done!",
+      "taskTypeId": 3,
+      "taskDifficultyId": 4,
+      "isCompleted": true,
+      "id": 13
     }
   ]
 }
