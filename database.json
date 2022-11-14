@@ -79,6 +79,21 @@
       "email": "thisisanewuser2@newuser.com",
       "fullName": "Reggie",
       "id": 16
+    },
+    {
+      "email": "thisisanewuser3@newuser.com",
+      "fullName": "Reggie",
+      "id": 17
+    },
+    {
+      "email": "thisisanewuser4@newuser.com",
+      "fullName": "Reggie W",
+      "id": 18
+    },
+    {
+      "email": "thisisanewuser5@newuser.com",
+      "fullName": "Reggie Williams",
+      "id": 19
     }
   ],
   "taskTypes": [
@@ -160,7 +175,7 @@
     },
     {
       "userId": 3,
-      "taskDescription": "Here's another!",
+      "taskDescription": "Here's another! also thius. ",
       "taskTypeId": "3",
       "taskDifficultyId": "2",
       "isCompleted": true,
