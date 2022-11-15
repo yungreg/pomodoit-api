@@ -94,6 +94,11 @@
       "email": "thisisanewuser5@newuser.com",
       "fullName": "Reggie Williams",
       "id": 19
+    },
+    {
+      "email": "thisisanewuser6@newuser.com",
+      "fullName": "Nezuko Kamado",
+      "id": 20
     }
   ],
   "taskTypes": [
